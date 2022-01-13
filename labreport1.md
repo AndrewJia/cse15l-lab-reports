@@ -4,3 +4,20 @@
 🥜<br>
 🥜🥜<br>
 🥜🥜🥜
+
+##bigger word
+
+*slanted word*
+
+**angry word**
+
+>gray bar word
+
+*dot1
+*dot2
+*dot3
+1. A
+2. B
+3. C
+
+![Image](https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png)
