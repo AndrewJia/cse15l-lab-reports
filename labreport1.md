@@ -1,4 +1,4 @@
-#Welcome to Lab Report 1
+# Welcome to Lab Report 1
 ---
 
 🥜<br>
