@@ -35,8 +35,11 @@
 ## Optimizing Remote Running
 ![Image](./report1-images/optimizingremote.png)
 * Commands in quotes after ssh will run the commands, then exit
-* Semicolons can be used to run multiple commands on teh same line
+* Semicolons can be used to run multiple commands on the same line
 * cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI
+* Previous method: "ssh cs15lwi22zzz@ieng6.ucsd.edu", "PASSWORD", ls (total of 35+ keystrokes)
+* New method: copy "ssh cs15lwi22zzz@ieng6.ucsd.edu" (Alt+Tab, Ctl+c-v), type "ls" (total of 10 keystrokes)
+* By more than halving the number of keystrokes, remotely running code is more than twice as fast as it was previouslly
 
 ## Conclusion
 Congrats on making it to the end! <br>
