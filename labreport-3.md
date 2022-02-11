@@ -12,3 +12,8 @@
 ![Image3](./report3-images/image3.png)
 * compiling and running the tests
 * make sure to use the Linux commands
+
+## Yeah I gave up here
+* best attempts:
+* ssh cs15lwi22anu@ieng6.ucsd.edu "cd markdown-parse javac -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar MarkdownParseTest.java javac -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar MarkdownParse.java java -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar org.junit.runner.JUnitCore MarkdownParseTest"
+* ssh cs15lwi22anu@ieng6.ucsd.edu "cd markdown-parse; make Test"
