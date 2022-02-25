@@ -13,7 +13,17 @@
 * compiling and running the tests
 * make sure to use the Linux commands
 
-## Yeah I gave up here
-* best attempts:
-* ssh cs15lwi22anu@ieng6.ucsd.edu "cd markdown-parse javac -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar MarkdownParseTest.java javac -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar MarkdownParse.java java -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar org.junit.runner.JUnitCore MarkdownParseTest"
-* ssh cs15lwi22anu@ieng6.ucsd.edu "cd markdown-parse; make Test"
+## Commands typed line by line work
+![Image4](./report3-images/workssomehow.png)
+using javac, java  
+<br>
+
+![Image5](./report3-images/workingOnRemote.png)
+using make test
+<br>
+
+## Commands typed on one line do not work
+![Image6](./report3-images/notWorkingOneLine.png)
+* I have been told this cannot find symbol error is a windows/java error
+
+
